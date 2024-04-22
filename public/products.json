@@ -1,0 +1,66 @@
+
+[
+  {
+    "id":1,
+    "title":"Tshirt-1",
+    "category": "Tshirt",
+    "price": 63.85,
+    "image":"/images/products/image8.avif",
+    "status": "Best Sellers"
+  },
+  {
+    "id":2,
+    "title":"Polo-1",
+    "category": "Polo",
+    "price": 130.00,
+    "image":"/images/products/image1.webp",
+    "status": "Best Sellers"
+  },
+  {
+    "id":3,
+    "title":"Tshirt(Oversized)",
+    "category": "Oversized",
+    "price": 53.00,
+    "image":"/images/products/image5.webp",
+    "status": "Best Sellers"
+  },
+  {
+    "id":4,
+    "title":"Tshirt-2",
+    "category": "Tshirt",
+    "price": 63.85,
+    "image":"/images/products/image9.avif",
+    "status": "New Arrivals"
+  },
+  {
+    "id":5,
+    "title":"Polo-2",
+    "category": "Polo",
+    "price": 236.00,
+    "image":"/images/products/image2.webp",
+    "status": "New Arrivals"
+  },
+  {
+    "id":6,
+    "title":"Tshirt(Fullsleeves)",
+    "category": "Tshirt",
+    "price": 198.00,
+    "image":"/images/products/image6.webp",
+    "status": "Best Sellers"
+  },
+  {
+    "id":7,
+    "title":"Tshirt-3",
+    "category": "Tshirt",
+    "price": 120.50,
+    "image":"/images/products/image11.webp",
+    "status": "Best Sellers"
+  },
+  {
+    "id":8,
+    "title":"Polo-3",
+    "category": "Polo",
+    "price": 160.00,
+    "image":"/images/products/image4.avif"
+  }
+]
